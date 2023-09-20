@@ -1,4 +1,4 @@
-DEFAULT TEMPERATURE SETTING:
+#DEFAULT TEMPERATURE SETTING:
 
 
 Voglio testare le tue competenze nel campo dei dialetti italiani.
@@ -10,7 +10,7 @@ Ti fornirò un testo in uno dei dialetti italiani. Procedi quindi seguendo quest
 
 
 
-0.2 AND 0.6 TEMPERATURE SETTING:
+#0.2 AND 0.6 TEMPERATURE SETTING:
 
 
 Voglio testare le tue competenze nel campo dei dialetti italiani.
