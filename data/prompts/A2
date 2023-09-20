@@ -1,4 +1,4 @@
-BEFORE TRANSLATION:
+#BEFORE TRANSLATION:
 
 Ti sottoporrò un testo in un dialetto italiano. Vorrei che tu leggessi il testo e, senza tradurlo, rispondessi ad alcune domande di comprensione. Ecco il testo: "..."
 
@@ -10,7 +10,7 @@ Ora vorrei farti alcune domande sul testo, per testare la tua comprensione. Risp
 5)	Quale gesto viene richiesto dal fiore al piccolo principe?
 
 
-AFTER TRANSLATION:
+#AFTER TRANSLATION:
 
 # Directly submitted after A1 test.
 
