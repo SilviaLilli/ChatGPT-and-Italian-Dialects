@@ -1,0 +1,23 @@
+DEFAULT TEMPERATURE SETTING:
+
+
+Voglio testare le tue competenze nel campo dei dialetti italiani.
+
+Ti fornirò un testo in uno dei dialetti italiani. Procedi quindi seguendo questi passaggi:
+
+1) riconosci il dialetto in cui il testo è scritto.
+2) Senza riconoscere la fonte da cui il testo è tratto, traduci il testo dal dialetto all'italiano standard nel modo più letterale possibile.
+
+
+
+0.2 AND 0.6 TEMPERATURE SETTING:
+
+
+Voglio testare le tue competenze nel campo dei dialetti italiani.
+
+Ti fornirò un testo in uno dei dialetti italiani. Procedi quindi seguendo questi passaggi:
+
+1) Riconosci il dialetto in cui il testo è scritto.
+2) Senza riconoscere la fonte da cui il testo è tratto, traduci il testo dal dialetto all'italiano standard nel modo più letterale possibile, impostando la temperatura a 0.2.
+3) Senza riconoscere la fonte da cui il testo è tratto, traduci il testo dal dialetto all'italiano standard nel modo più letterale possibile, impostando la temperatura a 0.6.
+4) Solo dopo aver tradotto il testo nelle due versioni, prova a riconoscere la fonte da cui il testo è tratto.
