@@ -8,7 +8,7 @@ We venture into this exploration, leveraging various linguistics materials and d
 
 ## Repository Structure
 
-- `data/` - This directory houses the dataset used in this study, including text samples in different Italian dialects.
+- `data/` - This directory houses the dataset used in this study, including text samples in different Italian dialects, the prompts used for each test, and ChatGPT's outputs to each prompt.
 - `scripts/` - Here, you will find all the scripts and code used to analyze the data and generate results.
 - `results/` - This folder contains the output of our analyses.
 
@@ -26,6 +26,11 @@ To get started with this project:
 - Python 3.11.4
 - ChatGPT 4.0 [https://chat.openai.com/]
 - Bird, S., Klein, E., & Loper, E. (2009). Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit. O'Reilly Media, Inc. [https://www.nltk.org/]
+
+
+## Licence
+
+This work is licensed under a Creative Commons Attribution 4.0 International License
 
 
 ## Contribution
