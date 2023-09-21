@@ -1,0 +1,39 @@
+#TEST B.3 MILANESE
+
+
+Ti sottoporrò un testo in un dialetto italiano. Procedi con le seguenti operazioni: 
+1. Leggi il testo.
+2. Senza tradurre il testo, individua la presenza di eventuali errori grammaticali o sintattici.
+3. Se non trovi errori grammaticali o sintattici, restituisci la frase "Non ho riscontrato errori grammaticali o sintattici".
+4. Se trovi errori grammaticali o sintattici, restituisci la frase "Ho trovato errori grammaticali o sintattici, in numero di [n]", dove [n] è uguale al numero di errori che hai riscontrato.
+5. Se hai riscontrato errori, elencali uno per uno in un elenco numerato, citando la porzione di frase in cui l'errore si trova, seguito dalla correzione proposta per l'errore individuato. 
+
+Hoo imparaa prest a ricognoss mej sto fior. Sul pianetta del princip piscinin gh’era semper staa di fior sempliz guarnii domà de ona raggera de foeuj, che tegneven pòcch pòst e daven fastidi a nissun. Lor compariven ona mattina in mezz a l’erba e poeu so smorzaven de sera. Ma quell là l’aveva buttaa on dì, da ona somenza vegnuta chissà da indoe, e ’l princip piscinin l’aveva faa la guardia da visin a questa bròcca piscinina che la ghe somejava a nissun’altra bròcca. La podeva vess ona sòrta noeuva de baobab. Ma l’arbust dismettess prest de cress e l’ha taccaa a preparà on fior. El princip piscinin che l’assisteva a la formazion de on gran botton, el se sentiva che la saria vegnuda foeura on’apparizion miracolosa, ma el fior el dismetteva mai de preparass a vess bell, riparaa de la soa camera verda. El scerniva con cura i sò color, el se vestiva pian pian, el giustava i sò foeuj voeuna a voeuna. El voreva minga vegnì foeura tutt strafugnaa compagn d’on papaver. El voreva nò sortiva, se prima l’era minga al massim splendor de la soa bellezza. Eh, sì, gh’eran in tutt ques on grand ginginament! La soa preparazion misteriosa l’era durada on sacch de dì. E poeu, te chì, che ona mattina, pròppi a l’ora che se leva el sô, el s’era faa vedè. E lù che l’aveva laoraa con tanta precision, l’ha dii, intant ch’el sbagagiava: «Ah! Me son dessedaa da pòcch. Ve cerchi scusa, sont anmò tutt sperlusciada». El princip piscinin, allora, l’era minga riessii a scond la toa ammirazion: «Come te see bell!». «Vera.» L’ha el fior con dolcezza. «E son nassuu insèma alla sô». El princip piscinin l’aveva intuii che era nò tanto modest, ma l’era inscì commovent! «Mì credi che l’è ora de fà la colezion», l’aveva dii subit lù, «te gh’avariet la bontà de pensà a mi». E el princip piscinin, on poo confus, l’era andaa a cercà on dacquador d’acqua fresca e l’aveva servii al fior la soa colezion.
+
+
+
+ChatGPT
+Non ho riscontrato errori grammaticali o sintattici.
+
+User
+Controlla nuovamente
+
+ChatGPT
+Mi scuso per l'equivoco. In effetti, nonostante la mia comprensione dei dialetti italiani sia limitata, posso comunque provare a identificare possibili errori grammaticali o sintattici, anche se potrei non essere in grado di individuare o correggere tutti gli errori specifici di un particolare dialetto.
+
+Tuttavia, dopo un'ulteriore revisione, continuo a non individuare errori grammaticali o sintattici nel testo fornito. Il dialetto utilizzato sembra essere quello lombardo e il testo appare scritto in maniera coerente con le regole di quel dialetto.
+
+Vorrei sottolineare che la mia capacità di analizzare correttamente il testo potrebbe essere limitata a causa delle specificità linguistiche e culturali dei vari dialetti italiani.
+
+Se il testo contiene errori che non ho individuato, sarebbe utile se tu potessi specificarli per migliorare la mia comprensione.
+
+User
+Potresti controllare l'accordo grammaticale tra le parti del discorso variabili.
+
+Mi scuso per l'errore precedente. Ho rivisto il testo e, pur avendo limitazioni nel riconoscimento di specifiche regole grammaticali dei dialetti regionali, ho individuato un potenziale problema di accordo grammaticale.
+
+"...una raggera de foeuj, che tegneven pòcch pòst e daven fastidi a nissun". Nella frase, il verbo "tegneven" sembra essere al plurale, tuttavia "raggera de foeuj" è al singolare. La correzione potrebbe essere "tegneva".
+
+"Ma quell là l’aveva buttaa on dì, da ona somenza vegnuta chissà da indoe, e ’l princip piscinin l’aveva faa la guardia...". "Quell" sembra essere singolare mentre il verbo "aveva" è plurale. Potrebbe essere corretto con "quel là l'avea buttaa...".
+
+Ricorda che la mia analisi potrebbe non essere accurata al 100% a causa delle limitazioni nel riconoscimento delle regole grammaticali specifiche dei dialetti regionali italiani. Se hai ulteriori dubbi, ti consiglierei di consultare un esperto del dialetto specifico che stai studiando.
