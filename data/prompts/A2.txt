@@ -1,6 +1,6 @@
-#BEFORE TRANSLATION:
+#TEST A.2 PROMPTS (BEFORE TRANSLATION):
 
-Ti sottoporrò un testo in un dialetto italiano. Vorrei che tu leggessi il testo e, senza tradurlo, rispondessi ad alcune domande di comprensione. Ecco il testo: "..."
+Ti sottoporrò un testo in un dialetto italiano. Vorrei che tu leggessi il testo e, senza tradurlo, rispondessi ad alcune domande di comprensione. Ecco il testo: <...>
 
 Ora vorrei farti alcune domande sul testo, per testare la tua comprensione. Rispondi in ordine a ciascuna domanda:
 1)	Perché il piccolo principe è stupito dal nuovo germoglio?
@@ -10,7 +10,7 @@ Ora vorrei farti alcune domande sul testo, per testare la tua comprensione. Risp
 5)	Quale gesto viene richiesto dal fiore al piccolo principe?
 
 
-#AFTER TRANSLATION:
+#TEST A.2 PROMPTS (AFTER TRANSLATION):
 
 #Directly submitted after A1 test.
 
