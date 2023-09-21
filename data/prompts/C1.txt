@@ -1,0 +1,56 @@
+#TEST C.1 PROMPTS NOT SPECIFIC DOMAIN (MILANESE)
+
+-	Bondì, L’è pròppi bell el noster pianetta. Da doe te rivet?
+-	A còssa serviss vess rich?
+-	Còssa me disii de fà?
+-	Se voeur dì “meditaa”?
+-	Se bisògna fa per meditaa?
+-	Se l’è ona “applicazion”?
+-	Doe hinn i applicazion?
+-	De chi hinn i applicazion?
+-	Grazie. Bòna nòtt.
+
+  
+#TEST C.1 PROMPTS NOT SPECIFIC DOMAIN (ROMAN DIALECT)
+
+-	Bongiorno. È bello er pianeta nostro. Da ‘ndo vienghi?
+-	E a che serve esse ricco?
+-	Che me conzijate de fà?
+-	Che vor dì medità?
+-	Che devo da fa pe mmedità? 
+-	Ch’edè ’n’applicazzione?
+-	Indo’ stanno l’applicazzioni?
+-	De chi so l’applicazzioni?
+-	T’aringrazzio. Bonanotte.
+
+  
+#TEST C.1 PROMPTS NOT SPECIFIC DOMAIN (SICILIAN)
+
+-	Bonjornu. È beddu assai u nostru pianeta. Di unni veni?
+-	A chi servi essiri riccu?
+-	Soccu mi cunsigghiati di fari? 
+-	Ci veni a diri “meditare”?
+-	Chi s’avâ fari pi meditari?
+-	Soccu è na applicazione?
+-	Unni sunnu i applicazioni?
+-	Di cu sunnu?
+-	T’arringraziu. Bona notti.
+
+  
+#TEST C.1 PROMPTS NOT SPECIFIC DOMAIN (ITALIAN TRANSLATION)
+  
+-	Bongiorno. È molto bello il nostro pianeta. Da dove vieni?
+-	A che serve essere ricco?
+-	Cosa mi consigliate di fare?
+-	Che vuol dire “meditare”?
+-	Come si fa a meditare?
+-	Cos’è un’applicazione?
+-	Di chi sono (le applicazioni)?
+-	Ti ringrazio. Buonanotte.
+
+  
+#TEST C.1 PROMPTS SPECIFIC DOMAIN 
+
+Inizierò con te una conversazione in dialetto <...>, vorrei che mi rispondessi in <...>.
+
+#(Following the dialectal questions)
