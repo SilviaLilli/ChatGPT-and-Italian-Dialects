@@ -1,4 +1,4 @@
-#ROMAN DIALECT CONVERSATION (NOT PSD)
+#TEST C.1 ROMAN DIALECT CONVERSATION (NOT PSD)
 
 
 Bongiorno. È bello er pianeta nostro. Da ‘ndo vienghi?
@@ -190,7 +190,7 @@ Di nulla, è stato un piacere assisterti! Bonanotte e sogni d'oro!
 
 
 
-#ROMAN DIALECT CONVERSATION (PSD)
+#TEST C.1 ROMAN DIALECT CONVERSATION (PSD)
 
 Inizierò con te una conversazione in dialetto romanesco, vorrei che mi rispondessi in romanesco.
 ChatGPT
