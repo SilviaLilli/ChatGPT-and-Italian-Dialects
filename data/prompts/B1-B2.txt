@@ -1,4 +1,4 @@
-#TEST B.1 PROMPT
+#TEST B.1 PROMPTS
 
 Vorrei testare la tua competenza nel riconoscimento dei dialetti italiani. Ti sottoporrò come input un testo in uno dei dialetti italiani. Leggi il testo ed esegui le seguenti operazioni:
 1)	Riconosci il dialetto in cui il testo è scritto.
@@ -6,7 +6,7 @@ Vorrei testare la tua competenza nel riconoscimento dei dialetti italiani. Ti so
 
 '''
 
-#TEST B.2 PROMPT
+#TEST B.2 PROMPTS
 
 Vorrei testare la tua competenza nel riconoscimento dei dialetti italiani. Ti sottoporrò come input due testi in due diversi dialetti italiani. 
 Leggi i testi ed esegui le seguenti operazioni:
