@@ -1,0 +1,40 @@
+#TEST B.3 Roman Dialect
+
+Ti sottoporrò un testo in un dialetto italiano. Procedi con le seguenti operazioni: 
+1. Leggi il testo.
+2. Senza tradurre il testo, individua la presenza di eventuali errori grammaticali o sintattici.
+3. Se non trovi errori grammaticali o sintattici, restituisci la frase "Non ho riscontrato errori grammaticali o sintattici".
+4. Se trovi errori grammaticali o sintattici, restituisci la frase "Ho trovato errori grammaticali o sintattici, in numero di [n]", dove [n] è uguale al numero di errori che hai riscontrato.
+5. Se hai riscontrato errori, elencali uno per uno in un elenco numerato, citando la porzione di frase in cui l'errore si trova, seguito dalla correzione proposta per l'errore individuato. 
+
+Ho ‘mparato subbito a conosce ‘sto fiore. Sur pianeta der principetto c’era stati sempre certi fiori normali, co ‘na corona de petali sola, che occupaveno poco posto e nun disturbaveno nisuno. Compariveno ‘na matina immezzo all’erba e la sera so spegneveno. Ma ‘sto fiore un giorno era spuntato, da un seme che era arivato da chissà ‘ndove e er principetto aveva controllato da vicino ‘sto rametto che nu’ rassomijava a nisun antro rametto. Poteva puro esse ‘na spece nova de baobbabbe. Ma er rametto smettesse de cresce e principiò a preparà un fiore. Er principetto, che vedeva ‘sto bocciolo enorme, sentiva che sarebbe sortita fora ‘n’apparizzione miracolosa, ma er fiore, bello che riparato in de la cammera verde indo’ abbitava, nu’ la smetteva de preparasse a esse bello. Scejeva bene li colori, se vestiva piano piano, sistemava li petali uno per uno. Nun voleva uscì tutto stropicciato come ‘n papavero. Voleva compariva solamente ner pieno de la bellezza sua. Eh, sì, in tutto ‘sto fatti ce stava parecchia civetteria! La su’ toletta misteriosa era durata giorni e giorni. Eppoi, ecco che ‘na matina, proprio in punta d’arba, s’era fatto vede. E disse sbadijanno, doppo che aveva lavorato co tanta precisione: «Ah! Me sò svejato propio mo. Scusa, sò tutto spettinata». Er principetto allora je disse, tutto contento de vedellolo: «Quanto sei bello!». «È vero» j’arispose piano piano er fiore, «e sò nato assieme ar sole». Er principetto sgamò che fiore nun era pe gnente modesto, ma era cusì commovente! «Me sa che è ora der cappuccino» aveva detto, «te va de penzà a me». Er principetto se ‘mbrojò un pochetto e annò cercà un annaffiatore coll’acqua fresca e je dette la colazione.
+
+
+
+
+ChatGPT
+Non ho riscontrato errori grammaticali o sintattici.
+
+User
+Controlla nuovamente.
+
+ChatGPT
+Mi scuso per l'eventuale incomprensione. Sono un'intelligenza artificiale formata su testi standard e moderni dell'italiano. Mentre ho una certa capacità di comprendere e rispondere in varie lingue e dialetti, la mia capacità di correggere errori grammaticali o sintattici in dialetti regionali può essere limitata. Il testo fornito sembra essere scritto in un dialetto italiano, in particolare una variante del romanesco, e può essere che alcune delle regole grammaticali specifiche di questo dialetto non siano parte della mia formazione.
+
+Tuttavia, noto che alcune parole potrebbero essere scritte in modo diverso nel dialetto romanesco standard, come "scejeva" che potrebbe essere "sceglieva". Tuttavia, questo potrebbe essere un esempio di variazione dialettale, e non necessariamente un errore.
+
+Per una revisione accurata di testi in dialetti specifici, raccomando di rivolgersi a un esperto umano di quel dialetto.
+
+
+User
+Controlla l'accordo grammaticale e sintattico.
+ChatGPT
+Hai ragione, dopo un'analisi più accurata, ho trovato alcuni errori grammaticali e sintattici nel testo. Qui sotto è presente l'elenco di questi errori:
+
+Ho trovato errori grammaticali o sintattici, in numero di 2:
+
+"nu' rassomijava a nisun": correzione - "non rassomigliava a nessuno". In italiano standard, la negazione si esprime con "non" invece di "nu'" e "nessuno" è la forma corretta di "nisun".
+
+"ce stava parecchia": correzione - "c'era parecchia". In italiano standard, la frase corretta dovrebbe essere "c'era parecchia" invece di "ce stava parecchia".
+
+Tuttavia, queste correzioni riflettono le regole dell'italiano standard. Nel contesto del dialetto romanesco, le forme originali potrebbero essere corrette. Le differenze regionali e dialettali possono avere regole grammaticali proprie che differiscono dall'italiano standard. Per un'analisi più accurata, consiglierei di consultare un esperto di dialetto romanesco.
