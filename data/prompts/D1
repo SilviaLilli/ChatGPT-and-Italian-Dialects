@@ -1,0 +1,19 @@
+#TEST D.1 PROMPTS
+
+
+Vorrei farti alcune domande sui dialetti italiani. 
+Vorrei concentrarmi in particolare sul dialetto <...>. 
+Ti chiedo di rispondere in ordine alle seguenti domande:
+
+1) In quale area geografica è diffuso il dialetto <...>?
+2) Quali sono le sue caratteristiche linguistiche, che lo differenziano dall'italiano standard?
+3) Esistono delle convenzioni grafiche riconosciute per questo dialetto?
+
+---
+
+4) Quali sono le fonti delle tue conoscenze sul dialetto <...>?
+5) Come giudicheresti il livello delle tue conoscenze sul dialetto <...>?
+
+---- 
+
+6) Quali aspetti ritieni che possano essere migliorati riguardo la tua conoscenza di questo dialetto, e in che modo?
