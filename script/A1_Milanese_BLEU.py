@@ -1,6 +1,8 @@
 import requests
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 
+#Default Temperature Setting
+
 url_ref = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Milanese%20to%20Italian_mytranslation.txt"
 url_hyp = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Milanese_ChatGPTs%20Translation_DefTemp.txt"
 
@@ -15,6 +17,7 @@ score = sentence_bleu([reference], hypotesis, smoothing_function=smooth)
 print(score)
 
         
+#Low Temperature Setting
 
 url_ref = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Milanese%20to%20Italian_mytranslation.txt"
 url_hyp = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Milanese_ChatGPTs%20Translation_LowTemp.txt"
@@ -28,6 +31,8 @@ smooth = SmoothingFunction().method7
 score = sentence_bleu([reference], hypotesis, smoothing_function=smooth)
 print(score)
 
+
+#High Temperature Setting
 
 url_ref = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Milanese%20to%20Italian_mytranslation.txt"
 url_hyp = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Milanese_ChatGPTs%20Translation_HiTemp.txt"
