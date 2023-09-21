@@ -1,4 +1,4 @@
-#TEST B.3 Roman Dialect
+#TEST B.3 ROMAN DIALECT
 
 Ti sottoporrò un testo in un dialetto italiano. Procedi con le seguenti operazioni: 
 1. Leggi il testo.
