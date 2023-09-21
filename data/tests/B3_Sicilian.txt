@@ -1,0 +1,23 @@
+#TEST B.3 SICILIAN
+
+
+Ti sottoporrò un testo in un dialetto italiano. Procedi con le seguenti operazioni: 
+1. Leggi il testo.
+2. Senza tradurre il testo, individua la presenza di eventuali errori grammaticali o sintattici.
+3. Se non trovi errori grammaticali o sintattici, restituisci la frase "Non ho riscontrato errori grammaticali o sintattici".
+4. Se trovi errori grammaticali o sintattici, restituisci la frase "Ho trovato errori grammaticali o sintattici, in numero di [n]", dove [n] è uguale al numero di errori che hai riscontrato.
+5. Se hai riscontrato errori, elencali uno per uno in un elenco numerato, citando la porzione di frase in cui l'errore si trova, seguito dalla correzione proposta per l'errore individuato. 
+
+
+Prestu ’mparai a canuscilu megghiu stu ciuri. C’avia statu sempri supra u pianeta dû principinu ciuri assai semplici, cu na curuna sula di pampineddi, chi ’un pigghiavanu postu e ’un disturbavanu a nuddu. Cumparianu no matina ’n mezzu all’erva e s’astutavanu a sira. Ma chistu avia spuntatu ’n jornu, di na simenza vinuta ’un si sapi dûnni, e u princinu l’avia puntatu di vicinu stu girmogghiu chi ’unn’assumigghiava a nuddu autru girmogghiu. Putia essiri na specî nova di baobab. Ma u girmogghiu prestu accabbarìa di crisciri e cuminciau a priparari ’n ciuri. U principinu, chi assistia ô furmarisi d’un bucciolu grannissimu, sintia chi nn’aviâ nesciri ’n apparizioni mmiraculusa, ma u ciuri ’unn’a finia mai di pripararisi a essiri beddu, riparannusi rintra a so cammara virdi. Zicchiava cu tanta cura i so’ culura, si vistia chianu chianu, aggiustava i so’ pampineddi a una a una. ’Un vulia nesciri munciuniatu comu na paparina. Vulia cumpariria splinnenti di biddizza. Eh, sì, si smurfiava ’n pocu comu na cucche. Sta tuletta mistiriusa avia ruratu jorna e ghiorna. E poi, eccu chi na matina, propiu quanni si susi u suli, s’avia mustratu. E iddu, c’avia travagghiatu cu tanta pricisioni, rissi sbarigghiannu: «Ah! M’arruspigghiu ora. Mâ scusari, sugnu ancora tuttu spittinatu». U principinu allura ’un potti frinari a so ammirazioni: «Comu sì bedda!». «Veru è», arrispunniu cu rucizza u ciuri, «e nascivi ’nsemmula cû suli». U principinu pinsau chi chistu iddu ’unn’era tantu mudestu, ma era tantu cummuventi! «Criu chê ura dû cafellatti», aggiungiu, «vulissi pinzari a mia». E u principinu, tuttu cunfusu, jiu a circari n’arrusciaturi chinu di acqua frisca e apprisintau ô ciuri a so culazioni.
+
+
+
+ChatGPT
+Non ho riscontrato errori grammaticali o sintattici.
+
+User
+Controlla nuovamente.
+
+ChatGPT
+Chiedo scusa per l'eventuale errore precedente. Dopo una seconda lettura, continuo a non riscontrare errori grammaticali o sintattici evidenti. Questo testo sembra essere scritto in un dialetto siciliano molto specifico. Tuttavia, la mia competenza nelle varietà dei dialetti italiani è limitata e potrebbero sfuggirmi dettagli più sottili. Ad esempio, il sistema di coniugazione verbale, l'uso di preposizioni, articoli e pronomi, o la forma delle parole stesse potrebbero variare notevolmente tra i dialetti e la mia capacità di rilevare errori in questi contesti potrebbe non essere perfetta. Se c'è una specifica questione che vorresti approfondire, sarei felice di aiutarti per quanto mi è possibile.
