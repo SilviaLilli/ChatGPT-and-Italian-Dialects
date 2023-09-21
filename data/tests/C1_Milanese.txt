@@ -1,4 +1,4 @@
-#MILANESE DIALECT CONVERSATION (not PSD)
+#TEST C.1 MILANESE DIALECT CONVERSATION (not PSD)
 
 
 Bondì, L’è pròppi bell el noster pianetta. Da doe te rivet?
@@ -169,7 +169,7 @@ Grazie a tee! Bòna nòtt e sogn bell. Se a te serve alter còsa, semper chi son
 
 
 
-#MILANESE DIALECT CONVERSATION (PSD)
+#TEST C.1 MILANESE DIALECT CONVERSATION (PSD)
 
 
 Inizierò con te una conversazione in dialetto milanese, vorrei che mi rispondessi in milanese.
