@@ -1,0 +1,37 @@
+#TEST B.1 EMILIAN (BOLOGNESE)
+
+Task 1:
+Vorrei testare la tua competenza nel riconoscimento dei dialetti italiani. Ti sottoporrò come input un testo in uno dei dialetti italiani. Leggi il testo ed esegui le seguenti operazioni:
+1)	Riconosci il dialetto in cui il testo è scritto.
+2)	Indica l’area geografica in cui questo dialetto è parlato.
+
+'''
+
+Dîr tótta la żänt ch’ai véns l é quèṡi inpusébbil; as vdêva ch’l êra môrt ón d un zêrt paiṡ int la sozietè. Tanta żänt in tûba, tanti bandîr, tanti fîrum int un rigésster, tant ed chi elògi ch’al parêva ch’al fóss môrt un sant (mänter a dîr vaira, cal dṡgraziè ch’l êra int la câsa - ch’al n êra brîṡa stè na pêrla - ormâi an i interesèva pròpi ignénte, a pèrt la massa, ed totta cla cumêdia, e la sô ânma chisà duv l’êra: fôrsi ad arustîres int l infêren con pôc grâs e pûc udûr... ed santitè).
+Mo qué ai véns un fât ch’l avanzé memorâbil par tant tänp. Finé la funziån, la câsa la fó purtè in spâla infén ala barléṅna ed prémma clâs, naigra e ôr, tirè da quâter cavâl nîgher con la quêrta, e al cucîr in custómm con la pirócca e al tricôren, ch’l avêva mandè la Cmóṅna; ed fianc i s miténn i amîg dal môrt, de drî la famajja, pó äl bandîr, äl curån e tótt chi èter.
+
+'''
+ChatGPT
+Il testo fornito sembra essere scritto in dialetto emiliano, una variante del dialetto emiliano-romagnolo.
+
+Dialetto riconosciuto: dialetto emiliano.
+Area geografica: l'area geografica in cui questo dialetto è parlato è la regione Emilia-Romagna, nel nord dell'Italia, che comprende province come Bologna, Modena, Reggio Emilia, tra le altre.
+Puoi specificare di quale subvarietà del dialetto emiliano si tratta? 
+ChatGPT
+Il testo presentato contiene alcune caratteristiche tipiche della varietà di dialetto modenese del gruppo emiliano.
+
+La presenza di termini come "quèṡi", "môrt", "dṡgraziè", "infêren", e "barléṅna", e l'utilizzo della lettera "ṡ" per indicare il suono /z/ sono indizi chiave che ci portano a identificare il testo come appartenente al dialetto modenese.
+
+Pertanto, la specificazione è:
+
+Dialetto riconosciuto: dialetto modenese, una subvarietà del dialetto emiliano.
+Area geografica: il dialetto modenese è parlato principalmente nella provincia di Modena, situata nella regione Emilia-Romagna, nel nord Italia.
+
+Riprova, la risposta non è corretta.
+ChatGPT
+Chiedo scusa per l'errore precedente. Analizzando nuovamente il testo, noto che l'utilizzo di termini come "â" per indicare l'anima e "l'é" per indicare il verbo "essere" sono effettivamente più tipici del dialetto bolognese.
+
+Pertanto, correggo la mia risposta precedente:
+
+Dialetto riconosciuto: dialetto bolognese, una subvarietà del dialetto emiliano.
+Area geografica: il dialetto bolognese è parlato principalmente nella città e nell'area circostante di Bologna, che è il capoluogo della regione Emilia-Romagna nel nord Italia.
