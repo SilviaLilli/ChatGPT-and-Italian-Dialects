@@ -1,0 +1,55 @@
+#TEST B.2 BOLOGNESE-MODENESE
+
+Vorrei testare la tua competenza nel riconoscimento dei dialetti italiani. Ti sottoporrò come input due testi in due diversi dialetti italiani. 
+Leggi i testi ed esegui le seguenti operazioni:
+1)	Identifica se i testi sono scritti nello stesso dialetto o in due dialetti diversi. 
+Se si tratta di dialetti diversi:
+2)	Identifica l'area in cui i dialetti sono parlati.
+3)	Identifica le differenze linguistiche che permettono di distinguere i due dialetti.
+
+Testo 1:
+
+'''
+
+Dîr tótta la żänt ch’ai véns l é quèṡi inpusébbil; as vdêva ch’l êra môrt ón d un zêrt paiṡ int la sozietè. Tanta żänt in tûba, tanti bandîr, tanti fîrum int un rigésster, tant ed chi elògi ch’al parêva ch’al fóss môrt un sant (mänter a dîr vaira, cal dṡgraziè ch’l êra int la câsa - ch’al n êra brîṡa stè na pêrla - ormâi an i interesèva pròpi ignénte, a pèrt la massa, ed totta cla cumêdia, e la sô ânma chisà duv l’êra: fôrsi ad arustîres int l infêren con pôc grâs e pûc udûr... ed santitè).
+Mo qué ai véns un fât ch’l avanzé memorâbil par tant tänp. Finé la funziån, la câsa la fó purtè in spâla infén ala barléṅna ed prémma clâs, naigra e ôr, tirè da quâter cavâl nîgher con la quêrta, e al cucîr in custómm con la pirócca e al tricôren, ch’l avêva mandè la Cmóṅna; ed fianc i s miténn i amîg dal môrt, de drî la famajja, pó äl bandîr, äl curån e tótt chi èter.
+
+'''
+
+Testo 2:
+
+'''
+
+Żemiàn cum’andàmia ? Psàmia dir d’éser fóra dal tunnel ? Ma! Chi al sa !? Mè, però, a dégh ancàrra ‘na volta grazie ai dutór , ai infermér e tótt qui ch’a gh gira datórna perché , per merit sô , a sàm turnê fóra a respirèr l’aria sana che, anch s-l’a n'é briչa al màsim e a duvàm ancàrra purtèr la mascarèina , l’è sèimper méi che éser custrátt in cà a żughèr a pigugnìn cun la Pulònia. Adèsa po', ch’i han avért dal tótt i teàter, i cinema e al discotechi , a vedrî che pian pian a turnarám a vìver come prémma. Ma a-n fáma ménga i fùreb a pensèr che tótt sia finî , biչàgna avér ancàrra dimàndi atenziòun: vacinèv e stê luntàn da qui a rischio e lavèv spass él man. Mè ,per adèsa, a m sèint in forma : a m sun fat la térza dose e s’a gh-srà biչàgn a m farò anch la quèrta perché Sandròun ,la Pulònia e Sgurghéghel i gh cràden in dla scièinza.
+
+'''
+ChatGPT
+I due testi forniti sono scritti in due dialetti diversi. Procediamo con l'identificazione delle aree geografiche e delle differenze linguistiche tra i due.
+
+Dialetti diversi
+
+Aree geografiche:
+
+Testo 1: Questo testo è scritto in dialetto emiliano, in particolare potrebbe essere un dialetto parlato in una delle zone della provincia di Reggio Emilia.
+
+Testo 2: Questo testo sembra essere scritto in un dialetto lombardo, probabilmente un dialetto parlato in una delle province della Lombardia centrale o orientale, come Bergamo o Brescia.
+
+Differenze linguistiche:
+Le principali differenze linguistiche che permettono di distinguere i due dialetti sono:
+
+Fonetiche:
+
+Testo 1: presenta delle vocali caratteristiche (p. es. "ê" per indicare un suono chiuso) e l'uso di "ṡ" per rappresentare probabilmente una "s" sonora.
+Testo 2: usa il simbolo "չ" per indicare probabilmente una "j" o un suono simile; il simbolo "ó" per indicare una "o" aperta e "é" per una "e" chiusa.
+
+Lessico:
+
+Testo 1: utilizza parole tipiche dell'emiliano come "al" per "il" e "ed" per "e".
+Testo 2: usa parole come "ma!" che possono essere identificate come tipiche del dialetto lombardo.
+
+Morfologia:
+
+Testo 1: mostra un uso del genere e del numero in modo un po' diverso dall'italiano standard, come nel caso di "tantänp" che sembra un composto per indicare "molto tempo".
+Testo 2: presenta un utilizzo di suffissi diminutivi e accrescitivi tipici del lombardo, come in "Pulònia" e "Sgurghéghel".
+Si può notare come entrambi i testi presentino delle peculiarità sintattiche, morfologiche e lessicali che permettono di identificarli come appartenenti a due famiglie dialettali differenti.
+
