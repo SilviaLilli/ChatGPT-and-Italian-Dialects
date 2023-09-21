@@ -1,6 +1,6 @@
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 
-with open (r"", "r") as ref:
+with open (r"data/texts/Milanese to Italian_mytranslation.txt", "r") as ref:
     with open (r"", "r") as hyp:
         
 
