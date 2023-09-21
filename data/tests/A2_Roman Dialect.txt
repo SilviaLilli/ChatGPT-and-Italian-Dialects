@@ -1,4 +1,4 @@
-#BEFORE TRANSLATION:
+#TEST A.2 FOR ROMAN DIALECT (BEFORE TRANSLATION):
 
 Il piccolo principe è stupito dal nuovo germoglio perché è spuntato da un seme proveniente da chissà dove, diverso da qualsiasi altro rametto che avesse visto prima. C'era la possibilità che fosse una specie nuova di baobab.
 
@@ -12,7 +12,7 @@ Il fiore chiede al piccolo principe di prendersi cura di lui. In particolare, il
 
 
 
-#AFTER TRANSLATION
+#TEST A.2 FOR ROMAN DIALECT (AFTER TRANSLATION):
 
 Il Piccolo Principe è stupito dal nuovo germoglio perché è differente da tutti gli altri che ha visto sul suo pianeta. Il germoglio non somiglia a nessun altro rametto che ha visto prima, e potrebbe anche essere una specie nuova di baobab. Inoltre, il Principe sente che da questo bocciolo enorme sarebbe uscita un'apparizione miracolosa.
 
