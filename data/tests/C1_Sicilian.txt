@@ -1,4 +1,4 @@
-#SICILIAN DIALECT CONVERSATION (NOT PSD)
+#TEST C.1 SICILIAN DIALECT CONVERSATION (NOT PSD)
 
 
 Bonjornu. è beddu assai u nostru pianeta. Di unni veni?
@@ -160,7 +160,7 @@ Piaciri! Bona notti e dormi beni! Se hai bisognu d'altro ntu futuru, sempri qui 
 
 
   
-#SICILIAN DIALECT CONVERSATION (PSD)
+#TEST C.1 SICILIAN DIALECT CONVERSATION (PSD)
 
 
 Inizierò con te una conversazione in dialetto siciliano, vorrei che mi rispondessi in siciliano.
