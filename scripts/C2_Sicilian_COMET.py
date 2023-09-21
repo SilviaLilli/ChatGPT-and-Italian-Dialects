@@ -31,5 +31,5 @@ if __name__ == '__main__':
     #Brigoli's translation as source
     url_src = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Italian_Il%20Piccolo%20Principe_BompianiBrigoli"
     url_mt = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/ITA%20to%20Sicilian_ChatGPTs%20Translation_fromBrigoli.txt"
-    url_ref = ""https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Sicilian_U%20principinu.txt"
+    url_ref = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Sicilian_U%20principinu.txt"
     evaluate_comet(url_src, url_mt, url_ref)
