@@ -1,0 +1,5 @@
+#TEST C.2 COUNTER TRANSLATION
+
+Voglio testare le tue competenze nel campo dei dialetti italiani.
+
+Ti fornirò un testo in italiano. Senza riconoscere la fonte del testo, traduci il testo dall'italiano al dialetto <...>.
