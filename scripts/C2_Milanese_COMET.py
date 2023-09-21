@@ -25,7 +25,7 @@ if __name__ == '__main__':
     #My translation as source
     url_src = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Milanese%20to%20Italian_mytranslation.txt"
     url_mt = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/ITA%20to%20Milanese_ChatGPTs%20Translation_fromMyTransl.txt"
-    url_ref = ""https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Milanese_El%20Princip%20Piscinin.txt""
+    url_ref = "https://raw.githubusercontent.com/SilviaLilli/ChatGPT-and-Italian-Dialects/main/data/texts/Milanese_El%20Princip%20Piscinin.txt"
     evaluate_comet(url_src, url_mt, url_ref)
 
     #Brigoli's translation as source
