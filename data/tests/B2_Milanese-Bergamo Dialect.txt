@@ -1,0 +1,39 @@
+#TEST B.2 MILANESE-BERGAMO DIALECT
+
+
+Vorrei testare la tua competenza nel riconoscimento dei dialetti italiani. Ti sottoporrò come input due testi in due diversi dialetti italiani. 
+Leggi i testi ed esegui le seguenti operazioni:
+
+1) Identifica se i testi sono scritti nello stesso dialetto o in due dialetti diversi.
+
+Se si tratta di dialetti diversi:
+
+2)Identifica l'area in cui i dialetti sono parlati.
+3) Identifica le differenze linguistiche che permettono di distinguere i due dialetti.
+
+Testo 1)
+
+'''
+Hoo imparaa prest a ricognoss mej sto fior. Sul pianetta del princip piscinin gh’eren semper staa di fior sempliz guarnii domà de ona raggera de foeuj, che tegneven pòcch pòst e daven fastidi a nissun. Lor compariven ona mattina in mezz a l’erba e poeu se smorzaven de sera. Ma quell là l’aveva buttaa on dì, da ona somenza vegnuta chissà da indoe, e ’l princip piscinin l’aveva faa la guardia da visin a questa bròcca piscinina che la ghe somejava a nissun’altra bròcca. La podeva vess ona sòrta noeuva de baobab. 
+'''
+
+Testo 2)
+
+'''
+Töcc i gh’à la sò dignità e i è istèss denàcc a la lège, sènsa distinsiù tra omegn e fòmne, tra bianc e nigher, tra chi che parla l’italià o l’inglès, tra chi che crèd al Signùr o a Maomèto. La lège la cambia mia se te sé de destra o de sinistra, se te sé sciòr o poarèt, profesùr o manoàl. L’è la Repüblica che la gh’à ol doér de tirà vià töt chèl che impedéss a chi chi gh’à mia i sólcc o l’à mia stödiat de ess ü citadì lìber e stèss di óter. In chèsta manéra ché, töcc i pöderà svilüpàss e partecipà come lauradùr a la éta politica, economica e sociàl de la Nassiù.
+
+'''
+ChatGPT
+Dopo aver letto i testi, posso confermare che si tratta di dialetti diversi. Passiamo all'analisi delle due successive richieste:
+
+Area di provenienza:
+Testo 1: Il dialetto utilizzato nel primo testo sembra essere una forma di dialetto Lombardo, più precisamente potrebbe essere un dialetto parlato nella zona di Milano o nelle vicinanze.
+
+Testo 2: Anche nel secondo testo si può riconoscere un dialetto lombardo, tuttavia presenta alcune differenze che lo rendono più vicino ai dialetti parlati nella zona di Bergamo o di Lecco.
+
+Differenze linguistiche:
+Testo 1: Il primo testo presenta delle caratteristiche tipiche dei dialetti lombardi occidentali, come l'utilizzo della "gh" in alcune parole ("gh’eren") e l'uso del termine "piscinin" per indicare un bambino piccolo. La presenza di parole come "brocca" e "domà" è indicativa della zona di Milano.
+
+Testo 2: Nel secondo testo troviamo delle forme linguistiche tipiche dei dialetti lombardi orientali, ad esempio "Töcc" che è una forma di "tutti" e l'uso di "lège" per indicare la legge. La presenza di "chèsta" per indicare "questa" e l'utilizzo di termini come "pöderà" e "lìber" rivelano una variante di dialetto più orientale rispetto al primo testo, suggerendo una possibile appartenenza alla zona di Bergamo o Lecco.
+
+In generale, le differenze linguistiche tra i due testi possono essere riconosciute attraverso l'uso di termini diversi per indicare le stesse cose, e alcune differenze nella fonetica e nella morfologia delle parole.
