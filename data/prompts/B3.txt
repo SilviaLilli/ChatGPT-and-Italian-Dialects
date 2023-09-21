@@ -1,0 +1,9 @@
+#TEST B.3 PROMPTS
+
+Ti sottoporrò un testo in un dialetto italiano. Procedi con le seguenti operazioni: 
+
+1. Leggi il testo.
+2. Senza tradurre il testo, individua la presenza di eventuali errori grammaticali o sintattici.
+3. Se non trovi errori grammaticali o sintattici, restituisci la frase "Non ho riscontrato errori grammaticali o sintattici".
+4. Se trovi errori grammaticali o sintattici, restituisci la frase "Ho trovato errori grammaticali o sintattici, in numero di [n]", dove [n] è uguale al numero di errori che hai riscontrato.
+5. Se hai riscontrato errori, elencali uno per uno in un elenco numerato, citando la porzione di frase in cui l'errore si trova, seguito dalla correzione proposta per l'errore individuato. 
