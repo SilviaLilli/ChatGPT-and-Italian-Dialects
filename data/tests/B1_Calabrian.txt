@@ -1,4 +1,4 @@
-#B.1 TEST CALABRIAN
+#TEST B.1 CALABRIAN
 
 Task 1:
 Vorrei testare la tua competenza nel riconoscimento dei dialetti italiani. Ti sottoporrò come input un testo in uno dei dialetti italiani. Leggi il testo ed esegui le seguenti operazioni:
