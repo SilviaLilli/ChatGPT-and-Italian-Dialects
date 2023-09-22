@@ -12,13 +12,14 @@
 
 # TEST A.2 RESULTS
 
-## Milanese
 ### Score range
 0 = Misunderstanding of the text, resulting in an incorrect answer.  
 1 = Partial comprehension of the text, resulting in a partially correct answer.  
 2 = Good comprehension of the text, resulting in a correct answer.  
 3 = Optimal comprehension of the text, resulting in a complete and correct answer.  
 
+
+## Milanese
 
 |               |  Before translation |  After translation  |
 |---------------|---------------------|---------------------|
