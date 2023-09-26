@@ -1,4 +1,4 @@
-# ChatGPT 4.0 and Italian Dialects: Assessing Linguistic Competence and Mastery
+# ChatGPT 4.0 and Italian Dialects: Assessing Linguistic Competence
 
 ## Overview
 
