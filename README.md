@@ -2,15 +2,15 @@
 
 ## Overview
 
-This repository contains the files and code used in the analytical study of ChatGPT 4.0's ability to understand and engage with Italian dialects. My study poses and addresses the critical question: "Does ChatGPT 4.0 understand Italian dialects?"
+This repository contains the files and code used in the analytical study of ChatGPT 4.0's ability to understand and engage with Italian dialects. 
 
-We venture into this exploration, leveraging various linguistics materials and dialect resources to assess ChatGPT's comprehension, interaction, and identification of distinctive elements across different Italian dialects.
+The purpose of this study is to evaluate ChatGPT-4’s language proficiency in Italian dialects. The skills tested, which served as foundation for test design, include comprehension and translation, dialect recognition, analysis of the distinctive features, error detection, text production, interaction, theoretical background, and self-assessment. Different tests were crafted to mimic situations requiring these competencies, trying to emulate authentic ChatGPT-User interactions. 
 
 ## Repository Structure
 
 - `data/` - This directory houses the dataset used in this study, including text samples in different Italian dialects, the prompts used for each test, and ChatGPT's outputs to each prompt.
-- `scripts/` - Here, you will find all the scripts and code used to analyze the data and generate results.
-- `results/` - This folder contains the output of our analyses.
+- `scripts/` - This folder contains all the scripts and code used to analyze the data and generate results.
+- `results/` - This folder contains the output of the tests, and the relative statistics.
 
 ## Getting Started
 
